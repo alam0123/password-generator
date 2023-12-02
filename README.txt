@@ -11,4 +11,5 @@ How to Run it
    docker pull alam0123/password-generator:1.0  
    docker run alam0123/password-generator:1.0
 
-URL to Docker Hub Image: docker.io/alam0123/password-generator:1.0
+URL to Docker Hub Image: docker.io/alam0123/password-generator:1 
+URL to GitHub:https://github.com/alam0123/password-generator
